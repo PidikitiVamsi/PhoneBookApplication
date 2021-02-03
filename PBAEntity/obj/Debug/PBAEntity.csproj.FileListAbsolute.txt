@@ -1,0 +1,6 @@
+C:\HTML_CSS_JS\PhoneBookApplication\PBAEntity\bin\Debug\PBAEntity.dll
+C:\HTML_CSS_JS\PhoneBookApplication\PBAEntity\bin\Debug\PBAEntity.pdb
+C:\HTML_CSS_JS\PhoneBookApplication\PBAEntity\obj\Debug\PBAEntity.csproj.CoreCompileInputs.cache
+C:\HTML_CSS_JS\PhoneBookApplication\PBAEntity\obj\Debug\PBAEntity.dll
+C:\HTML_CSS_JS\PhoneBookApplication\PBAEntity\obj\Debug\PBAEntity.pdb
+C:\HTML_CSS_JS\PhoneBookApplication\PBAEntity\obj\Debug\PBAEntity.csprojAssemblyReference.cache
