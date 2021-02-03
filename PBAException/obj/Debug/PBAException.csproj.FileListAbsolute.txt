@@ -1,0 +1,6 @@
+C:\HTML_CSS_JS\PhoneBookApplication\PBAException\bin\Debug\PBAException.dll
+C:\HTML_CSS_JS\PhoneBookApplication\PBAException\bin\Debug\PBAException.pdb
+C:\HTML_CSS_JS\PhoneBookApplication\PBAException\obj\Debug\PBAException.csprojAssemblyReference.cache
+C:\HTML_CSS_JS\PhoneBookApplication\PBAException\obj\Debug\PBAException.csproj.CoreCompileInputs.cache
+C:\HTML_CSS_JS\PhoneBookApplication\PBAException\obj\Debug\PBAException.dll
+C:\HTML_CSS_JS\PhoneBookApplication\PBAException\obj\Debug\PBAException.pdb
